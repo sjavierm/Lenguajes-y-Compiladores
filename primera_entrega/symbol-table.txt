@@ -1,0 +1,20 @@
+a		        INTEGER
+b		        INTEGER
+c		        INTEGER
+d		           REAL
+e		           REAL
+f		           REAL
+h		         STRING
+i		         STRING
+j		         STRING
+_43535		        CTE_INT          43535
+_4.5		       CTE_REAL            4.5
+_ola mundo		     CTE_STRING	ola mundo	              9
+_6		        CTE_INT              6
+_4653		        CTE_INT           4653
+_46421		        CTE_INT          46421
+_5656		        CTE_INT           5656
+_3		        CTE_INT              3
+_445		        CTE_INT            445
+_456		        CTE_INT            456
+_234.5		       CTE_REAL          234.5
