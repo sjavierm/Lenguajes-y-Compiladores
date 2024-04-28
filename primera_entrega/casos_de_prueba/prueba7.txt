@@ -1,0 +1,32 @@
+//prueba7: se produce un error debido a que en el UNTILLOOP las variables de la condicion es diferente a la variable que recibe el resultado//
+DEFINE
+	//es un comentario//
+	INTEGER a,b,c
+	REAL d,e,f
+	STRING h,i,j
+	
+	
+ENDDEFINE
+BEGINP
+	b:=43535
+	d:=4.5
+	h:="ola mundo"
+
+	IF(a<6 AND a>4653)
+	THEN
+		a:=46421
+	ENDIF
+
+	WHILE (a<6)
+		a:=5656
+	ENDWHILE
+	
+	UNTILLOOP(11>a,b:=3+a)
+
+	APLICARDESCUENTO(10,[445,456,234.5], 2)
+
+	READ(e)
+	
+	WRITE(f)
+
+ENDP

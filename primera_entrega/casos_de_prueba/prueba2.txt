@@ -1,0 +1,17 @@
+//prueba2: se produce un error porque se declara dos veces el ID a//
+DEFINE
+	//es un comentario//
+	INTEGER a,b,c
+	REAL a,d,e,f
+	STRING h,i,j
+	
+	
+ENDDEFINE
+BEGINP
+	b:=43535
+	d:=4.5
+	h:="ola mundo"
+
+	
+
+ENDP

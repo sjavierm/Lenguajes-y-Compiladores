@@ -1,0 +1,18 @@
+//prueba1: prueba con comentarios//
+DEFINE
+	//es un//comentario dentro de un comentario// comentario//
+	INTEGER a,b,c
+	//es un//comentario dentro de un comentario// comentario//	
+	REAL d,e,f
+	//es un//comentario dentro de un comentario// comentario//
+	STRING h,i,j
+	
+	
+ENDDEFINE
+BEGINP
+	//es un//comentario dentro de un comentario// comentario//
+	b:=43535
+	//es un//comentario dentro de un comentario// comentario//
+	d:=4.5
+
+ENDP
