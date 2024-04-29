@@ -1,13 +1,9 @@
 # Lenguajes-y-Compiladores
 
-Primera entrega del trabajo practico de la materia "Lenguajes y Compiladores".
+Primera entrega del trabajo practico de la materia "Lenguajes y Compiladores" del grupo .
 
 ALUMNOS:
 
-Miranda Sergio Javier
+Miranda Sergio Javier  35634266
 
-DNI:35634266
-
-Juarez Miguel Angel
-
-DNI:38530113
+Juarez Miguel Angel    38530113
